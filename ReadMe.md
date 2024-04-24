@@ -1,4 +1,4 @@
-# Apple-Product-landing-page
+# apple-product-landing-page
 This Repo consists of the following files :
 - .git
 - index.html
